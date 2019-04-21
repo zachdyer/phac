@@ -1,5 +1,10 @@
 <?php 
 
+/*
+This tool makes it easier to write markup
+And saves time writing markup.
+*/
+
 class HTML {
   
   public $title;
